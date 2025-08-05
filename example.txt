@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from feature-2
+=======
+Line from feature-1
+>>>>>>> b49f5822dba2aab6f55cebad6a6005d604b77da3
